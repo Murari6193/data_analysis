@@ -5,5 +5,4 @@ def last(n):
 def sort(tuples):
     return sorted(tuples, key=last)
    
-print("Sorted:")
 print(sort(a))

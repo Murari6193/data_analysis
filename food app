@@ -251,7 +251,7 @@ def take_input(food_data,prev_orders):
             ad_email=input("Enter admin email: ")
             ad_pass= input("Enter admin password: ")
             print()
-            if ad_email=="admin-sravan@gmail.com" and ad_pass=="password":
+            if ad_email=="admin-murarivats6193@gmail.com." and ad_pass=="password":
                 admin_login=admin(ad_email,ad_pass,food_data)
                 admin_login()
             else:

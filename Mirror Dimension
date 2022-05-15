@@ -3,4 +3,12 @@
 word= input("enter the word :")
 for char in range(len(word)-1,-1,-1):
     print(word[char] , end=" ")
+    
+    
+    
+# Write a Python program to count the number of even and odd numbers from a series of numbers.
+
+
+
+
 
